@@ -6,4 +6,6 @@ quran-cli gives you the ability to read Ayahs and Surahs within the Quran, as we
 - Then run the install script: ```qurancli/install.sh```
 
 ##Usage
-https://asciinema.org/a/Uqurh5QumhLHFBQxlIN5KgjWo
+
+<a href="https://asciinema.org/a/Uqurh5QumhLHFBQxlIN5KgjWo"><img src="https://asciinema.org/a/14.png" width="836"/></a>
+
