@@ -10,6 +10,8 @@ quran-cli gives you the ability to read Ayahs and Surahs within the Quran, as we
 Examples:
 
 ```quran-cli list-surahs```
+
+
 ```quran-cli read-surah --surahnumber 10```
 
 
