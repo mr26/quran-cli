@@ -32,5 +32,4 @@ Commands:
 ```quran-cli read-surah --surahnumber 10```
 
 
-<a href="https://asciinema.org/a/Uqurh5QumhLHFBQxlIN5KgjWo"><img src="https://asciinema.org/a/14.png" width="836"/></a>
 
